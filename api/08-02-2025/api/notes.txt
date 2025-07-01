@@ -1,0 +1,1 @@
+- cmd ekranında json dosyasının olduğu dizine gidip "json-server --watch api.json" yazarak endpoint lere ulaşabiliriz.
