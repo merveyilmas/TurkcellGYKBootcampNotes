@@ -1,6 +1,6 @@
 import requests
 
-baseUrl = "http://localhost:3000/products"
+baseUrl = "http://localhost:3000/products" 
 
 def getProducta():
     response = requests.get(baseUrl)
